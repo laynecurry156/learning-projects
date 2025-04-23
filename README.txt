@@ -7,3 +7,6 @@ folder and then enter: py (or python depending on your machine) numberGuesser.py
 
 enjoy!
 
+https://roadmap.sh/projects/number-guessing-game 
+this is the projects page that i made this game for btw
+
